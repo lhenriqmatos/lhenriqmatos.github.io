@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Geometria e Topologia"
+author: "Luiz Matos "
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: geotop.jpg
 ---
 
 # Markdown Support
