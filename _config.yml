@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Áreas"
-description:	       "Sobre as áreas de concentração da matemática moderna"
-author:              "Paul Le"
+description:	       "Sobre as áreas de concentração da Matemática Moderna"
+author:              "Luiz Matos"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
