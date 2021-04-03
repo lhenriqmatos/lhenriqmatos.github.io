@@ -4,7 +4,7 @@ title: "Geometria e Topologia"
 author: "Luiz Matos "
 categories: sample
 tags: [sample]
-image: geotop.jpg
+image: geotop1.jpg
 ---
 
 # Markdown Support
