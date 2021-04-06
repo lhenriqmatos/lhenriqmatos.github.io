@@ -11,9 +11,9 @@ menu:
 - {name: 'Análise', folder: 'pages', file: 'analise.html'}
 - {name: 'Geometria e Topologia', folder: 'pages', file: 'geometria-e-topologia.html'}
 - {name: 'Matemática Aplicada', folder: 'pages', file: 'matematica-aplicada.html'}
-- {name: 'Probabilidade e Estatística', folder: 'pages', file: 'probabilidade.html'}
-- {name: 'Sobre', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Probabilidade e Estatística', folder: 'pages', file: 'probabilidade-e-estatistica.html'}
+- {name: 'Sobre', folder: 'pages', file: 'sobre.html'}
+- {name: 'Contact', folder: 'pages', file: 'contato.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
