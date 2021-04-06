@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Matemática Aplicada"
-author: "Paul Le"
-categories: resources
-tags: [documentation,sample]
+author: "Luiz Matos"
+categories: Matemática Aplicada
+tags: [matemática aplicada]
 image: matap1.jpg
 ---
 
