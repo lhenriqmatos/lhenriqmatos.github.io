@@ -13,7 +13,6 @@ menu:
 - {name: 'Matemática Aplicada', folder: 'pages', file: 'matematica-aplicada.html'}
 - {name: 'Probabilidade e Estatística', folder: 'pages', file: 'probabilidade-e-estatistica.html'}
 - {name: 'Sobre', folder: 'pages', file: 'sobre.html'}
-- {name: 'Abracadabra', folder: 'pages', file: 'contato.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
