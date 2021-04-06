@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Teoria dos Números"
+title: "Probabilidade e Estatística"
 author: "Luiz Matos"
-categories: facts
+categories: probabilidade e estatistica
 tags: [sample]
 image: tn1.jpg
 ---

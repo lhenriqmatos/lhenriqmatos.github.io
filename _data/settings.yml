@@ -8,9 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Álgebra', folder: 'pages', file: 'documentation.html'}
-- {name: 'Análise', folder: 'pages', file: 'documentation.html'}
+- {name: 'Análise', folder: 'pages', file: 'facts.html'}
 - {name: 'Geometria e Topologia', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Matemática Aplicada', folder: 'pages', file: 'resources.html'}
+- {name: 'Probabilidade e Estatística', folder: 'pages', file: 'about.html'}
 - {name: 'Sobre', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
