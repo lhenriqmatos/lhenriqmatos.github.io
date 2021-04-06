@@ -3,7 +3,7 @@ layout: post
 title: "Matemática Aplicada"
 author: "Paul Le"
 categories: resources
-tags: [analise]
+tags: [documentation,sample]
 image: matap1.jpg
 ---
 

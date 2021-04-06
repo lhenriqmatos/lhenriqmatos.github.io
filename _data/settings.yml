@@ -7,11 +7,11 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Álgebra', folder: 'pages', file: 'facts.html'}
+- {name: 'Álgebra', folder: 'pages', file: 'algebra.html'}
 - {name: 'Análise', folder: 'pages', file: 'resources.html'}
 - {name: 'Geometria e Topologia', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Matemática Aplicada', folder: 'pages', file: 'documentation.html'}
-- {name: 'Teoria dos Números', folder: 'pages', file: 'about.html'}
+- {name: 'Sobre', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
