@@ -2,7 +2,7 @@
 layout: post
 title: "Álgebra"
 author: "Luiz Henrique"
-categories: álgebra
+categories: algebra
 tags: [algebra]
 image: algebra1.jpg
 ---
