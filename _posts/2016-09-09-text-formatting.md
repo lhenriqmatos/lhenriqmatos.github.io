@@ -2,7 +2,7 @@
 layout: post
 title: "Geometria e Topologia"
 author: "Luiz Matos "
-categories: sample
+categories: geometria e topologia
 tags: [Geometria e Topologia]
 image: geotop2.jpg
 ---
