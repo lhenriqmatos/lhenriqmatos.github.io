@@ -2,8 +2,8 @@
 layout: post
 title: "Álgebra"
 author: "Luiz Henrique"
-categories: documentation
-tags: [documentation,sample]
+categories: álgebra
+tags: [algebra]
 image: algebra1.jpg
 ---
 
