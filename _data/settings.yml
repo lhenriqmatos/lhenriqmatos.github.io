@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Álgebra', folder: 'pages', file: 'algebra.html'}
-- {name: 'Análise', folder: 'pages', file: 'resources.html'}
+- {name: 'Álgebra', folder: 'pages', file: 'documentation.html'}
+- {name: 'Análise', folder: 'pages', file: 'documentation.html'}
 - {name: 'Geometria e Topologia', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Matemática Aplicada', folder: 'pages', file: 'documentation.html'}
+- {name: 'Matemática Aplicada', folder: 'pages', file: 'resources.html'}
 - {name: 'Sobre', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
