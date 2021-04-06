@@ -2,8 +2,8 @@
 layout: post
 title: "Matemática Aplicada"
 author: "Luiz Matos"
-categories: matemática aplicada
-tags: [matemática aplicada]
+categories: matematica aplicada
+tags: [matematica aplicada]
 image: matap1.jpg
 ---
 
