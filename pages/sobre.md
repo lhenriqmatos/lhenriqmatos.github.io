@@ -2,6 +2,7 @@
 layout: misc
 title: Sobre
 ---
+<p style="text-align: justify;">
 
 ### Sobre o Site
 
@@ -22,3 +23,5 @@ Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - [CAPES](https:
 Conselho Nacional de Desenvolvimento Científico e Tecnológico - [CNPq](https://www.gov.br/cnpq/pt-br)
 
 Ministério da Educação - [MEC](http://portal.mec.gov.br/)
+
+</p>
