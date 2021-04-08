@@ -12,9 +12,7 @@ A álgebra é um dos principais ramos da matemática pura, seu estudo se baseia 
 ### Álgebra Comutativa
 
 A álgebra comutativa estuda anéis comutativos e seus ideais e módulos sobre tais anéis. Exemplos proeminentes de anéis comutativos incluem os anéis de polinômios, anéis de inteiros algébricos e os inteiros p-ádicos.
-
 Tanto a geometria algébrica quanto a teoria algébrica dos números estão construídas sobre a álgebra comutativa. Esta é ainda a principal ferramenta técnica para o estudo local de esquemas.
-
 O estudo de anéis não comutativos é conhecido como álgebra não-comutativa, o que inclui, por exemplo, teoria dos anéis, representação de grupos e álgebras de Banach.
 
 ### Conjuntos
