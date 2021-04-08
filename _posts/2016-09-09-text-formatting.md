@@ -45,8 +45,8 @@ Subdivide-se em
 #### Topologia de Baixa Dimensão: 
 é dedicada ao estudo das variedades de dimensão inferior ou igual a 4. Inclui a teoria dos nós. O problema mais famoso desta área é a Conjectura de Poincaré; 
 #### Topologia Diferencial:
-é a área dedicada ao estudo das funções diferenciáveis sobre variedades diferenciáveis. Ela é bastante relacionada à geometria diferencial e em conjunto elas constituem a teoria geométrica das variedades diferenciáveis.;
-####Grupos Topológicos:
+é a área dedicada ao estudo das funções diferenciáveis sobre variedades diferenciáveis. Ela é bastante relacionada à geometria diferencial e em conjunto elas constituem a teoria geométrica das variedades diferenciáveis;
+#### Grupos Topológicos:
 é um grupo munido de uma topologia de modo que a multiplicação e a inversão sejam ambas contínuas. A citar: Grupo de Lie.
 
 
