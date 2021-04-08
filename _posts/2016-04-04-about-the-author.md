@@ -60,7 +60,7 @@ Os teoremas limites clássicos de probabilidade se referem à sequencias de vari
 
 ### Teoria Geral e Fundamentos da Probabilidade
 
-## Probabilidade e Estatística Aplicadas
+### Probabilidade e Estatística Aplicadas
 
 
 

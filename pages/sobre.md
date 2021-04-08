@@ -12,5 +12,9 @@ O intuito desse site é proporcionar uma rápida busca sobre as principais área
 Me chamo Luiz e sou estudante do curso de matemática da Universidade Federal de Viçosa - Campus-Florestal. Tenho forte apreço pela matemática pura e amo todas as formas nas quais se expressam a matemática. 
 
 ### Links Interessantes:
-impa [the demo site](https://impa.br/)
+Instituto de Matem-atica Pura e Aplicada - [impa](https://impa.br/)
+Sociedade Brasileira de Matemática - [sbm](https://www.sbm.org.br/)
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - [CAPES](https://www.gov.br/capes/pt-br)
+Conselho Nacional de Desenvolvimento Científico e Tecnológico - [CNPq](https://www.gov.br/cnpq/pt-br)
 
+Ministério da Educação - [MEC](http://portal.mec.gov.br/)
