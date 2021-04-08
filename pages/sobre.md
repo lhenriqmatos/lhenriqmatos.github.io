@@ -18,7 +18,7 @@ Me chamo Luiz e sou estudante do curso de matemática da Universidade Federal de
 >
 ### Links Interessantes:
 
-<p style="text-align: justify;">
+
 
 Instituto de Matem-atica Pura e Aplicada - [impa](https://impa.br/)
 
@@ -30,4 +30,3 @@ Conselho Nacional de Desenvolvimento Científico e Tecnológico - [CNPq](https:/
 
 Ministério da Educação - [MEC](http://portal.mec.gov.br/)
 
-</p>
