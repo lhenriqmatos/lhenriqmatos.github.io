@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Áreas"
+title:		           "Áreas Da Matemática"
 description:	       "Sobre as áreas de concentração da Matemática Moderna"
 author:              "Luiz Matos"
 
